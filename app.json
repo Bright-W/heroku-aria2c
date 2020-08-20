@@ -1,7 +1,7 @@
 {
 	"name": "Heroku test v1",
 	"description": "Run testing on heroku",
-	"repository": "https://github.com/Bright-W/heroku-aria2c",
+	"repository": "https://github.com/Bright-W/test-on-heroku",
 	"keywords": ["testing"],
 	"env": {
 		"HEROKU_APP_NAME": {
