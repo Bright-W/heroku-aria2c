@@ -1,14 +1,14 @@
 {
-	"name": "Heroku aria2c",
-	"description": "Run aria2c on heroku",
-	"repository": "https://github.com/maple3142/heroku-aria2c",
-	"keywords": ["aria2c"],
+	"name": "Heroku test v1",
+	"description": "Run testing on heroku",
+	"repository": "https://github.com/Bright-W/heroku-aria2c",
+	"keywords": ["testing"],
 	"env": {
 		"HEROKU_APP_NAME": {
 			"description": "This should be the same as \"App name\" above."
 		},
-		"ARIA2C_SECRET": {
-			"description": "Aria2c's secret",
+		"ARIA2_SECRET": {
+			"description": "secret",
 			"value": "DEFAULT_SECRET"
 		},
 		"RCLONE_CONFIG": {
